@@ -1,0 +1,26 @@
+[
+    {
+        "image": "/mug.jpg",
+        "title": "Coffee Mug Set",
+        "description": "Enjoy your favorite beverages with our stylish Coffee Mug Set. Made from high-quality ceramic, these mugs are perfect for both hot and cold drinks.",
+        "pieces": "4 mugs per set"
+    },
+    {
+        "image": "/anime-keychian.jpg",
+        "title": "Keychain Collection",
+        "description": "Keep your keys organized with our trendy Keychain Collection. Featuring various designs and high-quality materials, these keychains are perfect for everyday use.",
+        "pieces": "6 keychains per set"
+    },
+    {
+        "image": "/candle-holder.jpg",
+        "title": "Scented Candle Set",
+        "description": "Create a relaxing atmosphere with our Scented Candle Set. These candles come in various fragrances and are perfect for any room in your home.",
+        "pieces": "3 candles per set"
+    },
+    {
+        "image": "/vase.webp",
+        "title": "Elegant Flower Vase",
+        "description": "Enhance your decor with our Elegant Flower Vase. This beautifully crafted vase is perfect for displaying your favorite flowers and adding a touch of elegance to any space.",
+        "pieces": "1 vase"
+    }
+]
